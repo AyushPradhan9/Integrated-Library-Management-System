@@ -17,6 +17,7 @@ Eclipse IDE can be downloaded for [Windows](https://www.eclipse.org/downloads/) 
 ## Built with 
 - [Eclipse IDE](https://www.eclipse.org/downloads/)
 ## Contributing 
-[Ayush Pradhan](https://github.com/git-ayush-pradhan)
-[Aryan Varshneya](https://github.com/N3M355i5)
-[Anurag Sharma](https://m.facebook.com/profile.php?id=100003970616933&ref=content_filter)
+- [Ayush Pradhan](https://github.com/git-ayush-pradhan)
+- [Aryan Varshneya](https://github.com/N3M355i5)
+- [Anurag Sharma](https://www.facebook.com/profile.php?id=100003970616933&ref=content_filter)
+- [Manav Shah](https://www.facebook.com/profile.php?id=100001997428017&ref=content_filter)
