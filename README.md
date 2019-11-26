@@ -15,7 +15,7 @@ Eclipse IDE can be downloaded for [Windows](https://www.eclipse.org/downloads/) 
 - View existing fine on Student. 
 - Delete existing Admin/Librarian/Student.
 ## Built with 
-- [Eclipse IDE]((https://www.eclipse.org/downloads/)
+- [Eclipse IDE](https://www.eclipse.org/downloads/)
 ## Contributing 
 [Ayush Pradhan](https://github.com/git-ayush-pradhan)
 [Aryan Varshneya](https://github.com/N3M355i5)
